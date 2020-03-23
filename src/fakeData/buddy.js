@@ -7,7 +7,7 @@ var buddies =
             "company": "Mukh Boi, Kan pete shune roi",
             "salary": 100,
             "email": "joker.barg@fakemail.com",
-            "phone": "+0248865064"
+            "phone": "+024 886 5064"
 
         },
 
@@ -18,7 +18,7 @@ var buddies =
             "company": "Number 1 Online Market",
             "salary": 200,
             "email": "ema.john@fakemail.com",
-            "phone": "+2069305629"
+            "phone": "+206 930 5629"
 
         },
 
@@ -30,7 +30,7 @@ var buddies =
             "company": "Janalar Karigor",
             "salary": 300,
             "email": "billu.vai@fakemail.com",
-            "phone": "+4521746719"
+            "phone": "+452 174 6719"
 
         },
 
@@ -42,7 +42,7 @@ var buddies =
             "company": "Bura Manush Ami",
             "salary": 400,
             "email": "buffet.khabo@fakemail.com",
-            "phone": "+6619977706"
+            "phone": "+661 997 7706"
 
         },
 
@@ -53,7 +53,7 @@ var buddies =
             "company": "Real King of India",
             "salary": 500,
             "email": "zio.4g@fakemail.com",
-            "phone": "+7209979545"
+            "phone": "+720 997 9545"
 
         },
 
@@ -65,7 +65,7 @@ var buddies =
             "company": "Number 1 Marketplace",
             "salary": 600,
             "email": "ali.baba@fakemail.com",
-            "phone": "+2266557955"
+            "phone": "+226 655 7955"
 
         },
 
@@ -77,7 +77,7 @@ var buddies =
             "company": "Facebook VIP Profile",
             "salary": 700,
             "email": "khepa.pagla@fakemail.com",
-            "phone": "+5650275765"
+            "phone": "+565 027 5765"
 
         },
 
@@ -89,7 +89,7 @@ var buddies =
             "company": "Google a search dao",
             "salary": 800,
             "email": "google.boss@fakemail.com",
-            "phone": "+8176607257"
+            "phone": "+817 660 7257"
 
         },
 
@@ -101,7 +101,7 @@ var buddies =
             "company": "TV Channel sob amar",
             "salary": 900,
             "email": "keda.tui@fakemail.com",
-            "phone": "+5942405660"
+            "phone": "+594 240 5660"
 
         },
 
@@ -113,7 +113,7 @@ var buddies =
             "company": "World Class Cinema Coaching Center",
             "salary": 1000,
             "email": "number.one@fakemail.com",
-            "phone": "+7367929572"
+            "phone": "+736 792 9572"
 
         },
 
@@ -125,7 +125,7 @@ var buddies =
             "company": "Khelar Maath",
             "salary": 1100,
             "email": "bangladeher.jan@fakemail.com",
-            "phone": "+2122699626"
+            "phone": "+212 269 9626"
 
         },
 
@@ -137,7 +137,7 @@ var buddies =
             "company": "Desh er Jonno",
             "salary": 1200,
             "email": "guru.mash@fakemail.com",
-            "phone": "+4475659714"
+            "phone": "+447 565 9714"
 
         },
 
@@ -145,11 +145,11 @@ var buddies =
         {
             "id": "13",
             "name": "Sefat Ullah",
-            "img": "duhttps://i.imgur.com/1WNXQlM.jpgmmy", 
+            "img": "https://i.imgur.com/1WNXQlM.jpg", 
             "company": "Manush Hobi Foundation",
             "salary": 1300,
             "email": "sefuda@fakemail.com",
-            "phone": "+8884607787"
+            "phone": "+888 460 7787"
 
         },
 

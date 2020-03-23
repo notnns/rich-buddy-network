@@ -1,4 +1,4 @@
-import androids from './buddy';
+import buddy from './buddy';
 
 const fakeData = [...buddy];
 

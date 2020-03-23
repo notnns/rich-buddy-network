@@ -1,0 +1,10 @@
+.counterStyle{
+    position: fixed;
+    margin-left: 10%;
+    border: 1px solid green;
+    background-color: lightcyan;
+    padding: 1%;
+    margin-top: 17%;
+    border-radius: 10%;
+    box-shadow: 12px 12px 20px grey;
+}
